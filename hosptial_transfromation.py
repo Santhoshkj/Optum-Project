@@ -31,10 +31,6 @@ df_row_columns(hos_df)
 
 # COMMAND ----------
 
-check_missing_perc_drop(hos_df)
-
-# COMMAND ----------
-
 check_string_as_NaN(hos_df)
 
 # COMMAND ----------

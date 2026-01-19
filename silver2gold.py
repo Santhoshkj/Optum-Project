@@ -11,6 +11,14 @@ adls_connector()
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
+tee
+
+# COMMAND ----------
+
 list_silver_files()
 
 # COMMAND ----------

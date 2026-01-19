@@ -31,7 +31,15 @@ missing_values_cnt(grp_df)
 
 # COMMAND ----------
 
+display(grp_df)
+
+# COMMAND ----------
+
 check_duplicates(grp_df)
+
+# COMMAND ----------
+
+grp_df.count(), len(grp_df.columns)
 
 # COMMAND ----------
 
